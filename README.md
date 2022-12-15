@@ -2,7 +2,7 @@
 &nbsp;
 ![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=f9e64f&color=008000 "Total de Seguidores")
 &nbsp;
-![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/?style=p&label=Observadores&labelColor=f9e64f&color=008000 "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/mod-int-log-par-pro-com-bas?style=p&label=Observadores&labelColor=f9e64f&color=008000 "Total de Observadores")
 &nbsp;
 ![Stars](https://img.shields.io/github/stars/Devsgeeknerd/?style=p&label=Estrelas&labelColor=f9e64f&color=008000 "Total de Estrelas")
 &nbsp;
