@@ -8,6 +8,6 @@
 &nbsp;
 ![Forks](https://img.shields.io/github/forks/Devsgeeknerd/mod-int-log-par-pro-com-bas?style=p&label=Bifurcações&labelColor=f9e64f&color=008000 "Total de Bifurcações")
 &nbsp;
-![code Size](https://img.shields.io/github/languages/code-size/Devsgeeknerd/?style=p&label=Tamanho&labelColor=f9e64f&color=008000& "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/mod-int-log-par-pro-com-bas?style=p&label=Tamanho&labelColor=f9e64f&color=008000& "Tamanho do Repositório")
 &nbsp;
 ![License](https://img.shields.io/github/license/Devsgeeknerd/?style=p&label=Licença&labelColor=f9e64f&color=008000 "Licença do Repositório")
