@@ -3,6 +3,15 @@
 
 ***Conteúdo da Módulo:***
 
+* [ ] [Definições e Conceitos.](https://github.com/Devsgeeknerd/cla-def-con-int-log-par-pro-com-bas)
+* [ ] []()
+* [ ] []()
+* [ ] []()
+* [ ] []()
+* [ ] []()
+* [ ] []()
+* [ ] []()
+
 Nós definimos como lógica para programação a técnica de encadear pensamentos para atingir determinado objetivo.
 
 Lógica para programação é a maneira como organizamos nossos pensamentos para conseguirmos executar determinada tarefa.
