@@ -1,7 +1,7 @@
 <!-- Título -->
 # Introdução
 
-***Conteúdo da Aula:***
+***Conteúdo da Módulo:***
 
 Nós definimos como lógica para programação a técnica de encadear pensamentos para atingir determinado objetivo.
 
