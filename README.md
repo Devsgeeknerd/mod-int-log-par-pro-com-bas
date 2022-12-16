@@ -16,6 +16,8 @@ Esses pensamentos podem ser descritos como uma **sequência de instruções**, q
 
 Essa sequência também costumamos chamar de **“sequência lógica”**.
 
+E é esta **sequência de instruções** que precisamos traduzir para um computador quando escrevemos um software.
+
 <!-- Informações -->
 ## Informações
 
