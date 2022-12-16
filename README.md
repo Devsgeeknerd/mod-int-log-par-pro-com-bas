@@ -5,7 +5,7 @@
 
 * [ ] [Definições e Conceitos.](https://github.com/Devsgeeknerd/cla-def-con-int-log-par-pro-com-bas)
 * [ ] [O Que é um Computador?](https://github.com/Devegeeknerd/cla-o-que-um-com-int-log-par-pro-com-bas)
-* [ ] []()
+* [ ] [E Para Programar?](https://github.com/Devsgeeknerd/cla-e-par-pro-log-par-pro-com-bas)
 * [ ] []()
 * [ ] []()
 * [ ] []()
