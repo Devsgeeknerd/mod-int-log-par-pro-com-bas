@@ -3,7 +3,7 @@
 
 ***Conteúdo da Módulo:***
 
-* [ ] [Definições e Conceitos.](https://github.com/Devsgeeknerd/cla-def-con-int-log-par-pro-com-bas)
+* [x] [Definições e Conceitos.](https://github.com/Devsgeeknerd/cla-def-con-int-log-par-pro-com-bas)
 * [ ] [O Que é um Computador?](https://github.com/Devegeeknerd/cla-o-que-um-com-int-log-par-pro-com-bas)
 * [ ] [E Para Programar?](https://github.com/Devsgeeknerd/cla-e-par-pro-int-log-par-pro-com-bas)
 * [ ] [Metodologia.](https://github.com/Devsgeeknerd/cla-met-int-log-par-pro-com-bas)
