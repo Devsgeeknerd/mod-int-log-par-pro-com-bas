@@ -7,7 +7,7 @@
 * [x] [O Que é um Computador?](https://github.com/Devegeeknerd/cla-o-que-um-com-int-log-par-pro-com-bas)
 * [x] [E Para Programar?](https://github.com/Devsgeeknerd/cla-e-par-pro-int-log-par-pro-com-bas)
 * [x] [Metodologia.](https://github.com/Devsgeeknerd/cla-met-int-log-par-pro-com-bas)
-* [ ] [Algoritmos e Formas de Representação.](https://github.com/Devsgeeknerd/cla-alg-for-rep-int-log-par-pro-com-bas)
+* [x] [Algoritmos e Formas de Representação.](https://github.com/Devsgeeknerd/cla-alg-for-rep-int-log-par-pro-com-bas)
 * [ ] [Representação de Algoritmos — Formas Narrativas.](https://github.com/Devsgeeknerd/cla-rep-alg-for-nar-int-log-par-pro-com-bas)
 * [ ] [Representação de Algoritmos — Fluxograma ou Simbologia.](https://github.com/Devsgeeknerd/cla-rep-alg-flu-sim-int-log-par-pro-com-bas)
 * [ ] [Representação de Algoritmos — Linguagem Algorítmica.](https://github.com/Devsgeeknerd/cla-rep-alg-lin-alg-int-log-par-pro-com-bas)
