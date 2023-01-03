@@ -10,7 +10,7 @@
 * [x] [Algoritmos e Formas de Representação.](https://github.com/Devsgeeknerd/cla-alg-for-rep-int-log-par-pro-com-bas)
 * [x] [Representação de Algoritmos — Formas Narrativas.](https://github.com/Devsgeeknerd/cla-rep-alg-for-nar-int-log-par-pro-com-bas)
 * [x] [Representação de Algoritmos — Fluxograma ou Simbologia.](https://github.com/Devsgeeknerd/cla-rep-alg-flu-sim-int-log-par-pro-com-bas)
-* [ ] [Representação de Algoritmos — Linguagem Algorítmica.](https://github.com/Devsgeeknerd/cla-rep-alg-lin-alg-int-log-par-pro-com-bas)
+* [x] [Representação de Algoritmos — Linguagem Algorítmica.](https://github.com/Devsgeeknerd/cla-rep-alg-lin-alg-int-log-par-pro-com-bas)
 
 Nós definimos como lógica para programação a técnica de encadear pensamentos para atingir determinado objetivo.
 
