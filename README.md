@@ -1,31 +1,16 @@
 <!-- Título -->
 # Introdução
 
-***Conteúdo da Módulo:***
+***Conteúdo do Módulo:***
 
 * [x] [Definições e Conceitos.](https://github.com/Devsgeeknerd/cla-def-con-int-log-par-pro-com-bas)
-* [x] [O Que é um Computador?](https://github.com/Devsgeeknerd/cla-o-que-um-com-int-log-par-pro-com-bas)
+* [x] [O Que é um Computador?](https://github.com/Devsgeeknerd/cla-o-que-um-com-int-log--par-pro-com-bas)
 * [x] [E Para Programar?](https://github.com/Devsgeeknerd/cla-e-par-pro-int-log-par-pro-com-bas)
 * [x] [Metodologia.](https://github.com/Devsgeeknerd/cla-met-int-log-par-pro-com-bas)
 * [x] [Algoritmos e Formas de Representação.](https://github.com/Devsgeeknerd/cla-alg-for-rep-int-log-par-pro-com-bas)
 * [x] [Representação de Algoritmos — Formas Narrativas.](https://github.com/Devsgeeknerd/cla-rep-alg-for-nar-int-log-par-pro-com-bas)
 * [x] [Representação de Algoritmos — Fluxograma ou Simbologia.](https://github.com/Devsgeeknerd/cla-rep-alg-flu-sim-int-log-par-pro-com-bas)
 * [x] [Representação de Algoritmos — Linguagem Algorítmica.](https://github.com/Devsgeeknerd/cla-rep-alg-lin-alg-int-log-par-pro-com-bas)
-
-Nós definimos como lógica para programação a técnica de encadear pensamentos para atingir determinado objetivo.
-
-Lógica para programação é a maneira como organizamos nossos pensamentos para conseguirmos executar determinada tarefa.
-
-Por exemplo:
-
-* Como fazemos para verificar se uma pessoa é maior de idade ou não?
-  * Os pensamentos que executamos para fazemos essa verificação constituem a lógica para resolução desse problema e, consequentemente, são a lógica para programação para se escrever um *software* para se resolver este problema.
-
-Esses pensamentos podem ser descritos como uma **sequência de instruções**, que devem ser seguidas para se cumprir determinada tarefa.
-
-Essa sequência também costumamos chamar de **“sequência lógica”**.
-
-E é esta **sequência de instruções** que precisamos traduzir para um computador quando escrevemos um software.
 
 <!-- Informações -->
 ## &#8505; Informações
